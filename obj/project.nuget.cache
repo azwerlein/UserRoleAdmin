@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RgzlI9s6gQKtSlBa7PjkexC2ZkuTKO7I1s5xuP+NIKISFkIekoq+goF5j8cujIwcJBgaguh+5wG1qch7Ke7bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azwer\\Workspace\\Web Development\\Dotnet Web Development\\UserRoleAdmin\\UserRoleAdmin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azwer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\azwer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\azwer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\azwer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
